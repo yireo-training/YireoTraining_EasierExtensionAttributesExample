@@ -1,0 +1,21 @@
+{
+  "name": "yireo-training/easier-extension-attributes-example",
+  "version": "1.0.0",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "yireo/magento2-easier-extension-attributes": "*"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "YireoTraining\\EasierExtensionAttributesExample\\": ""
+    }
+  }
+}
