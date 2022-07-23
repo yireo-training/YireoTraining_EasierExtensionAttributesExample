@@ -8,7 +8,7 @@
     "yireo/magento2-easier-extension-attributes": "*"
   },
   "license": [
-    "Proprietary"
+    "OSL-3.0"
   ],
   "autoload": {
     "files": [
